@@ -1,4 +1,5 @@
-## As an IPFSum, we glad to announced we granted $34k from various Web3 foundations 🎉🎉
+# IPFSum are pleased to announce that we have granted $34K from various Web3 foundations 🎉🎉
+---
 
 # IPFSum
 IPFSum is a Decentralized Accounting Platform. It is currently being developed on Laravel using MySQL, but we are still working on the use of OrbitDB. Files created on IPFSum are saved in IPFS and the file's addressees can verify the validity of this file over IPFS. For this, our integration work with Web3Storage continues.
