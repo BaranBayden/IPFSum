@@ -1,1 +1,0 @@
-{extends file="$layouts_admin"}
